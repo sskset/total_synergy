@@ -1,0 +1,32 @@
+<div class="container">
+  <form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <label>Create a new contact:</label>
+    <div class="input-group mb-3">
+      <div class="input-group-prepend">
+        <span class="input-group-text">First name:</span>
+      </div>
+      <input
+        type="text"
+        class="form-control"
+        aria-label="Firstname"
+        aria-describedby="basic-addon1"
+        formControlName="firstName"
+      />
+    </div>
+    <div class="input-group mb-3">
+      <div class="input-group-prepend">
+        <span class="input-group-text">Last name:</span>
+      </div>
+      <input
+        type="text"
+        class="form-control"
+        aria-label="Lastname"
+        aria-describedby="basic-addon1"
+        formControlName="lastName"
+      />
+    </div>
+    <button class="btn btn-primary" type="submit" [disabled]="form.invalid">
+      Submit
+    </button>
+  </form>
+</div>

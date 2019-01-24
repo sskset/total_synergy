@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <label>Select a project:</label>
+      <select
+        class="form-control"
+        [(ngModel)]="selectedProject"
+        (change)="onChangeSelectedProject()"
+      >
+        <option *ngFor="let p of projects" [ngValue]="p">{{
+          p.projectName
+        }}</option>
+      </select>
+    </div>
+    <div class="col-md-12">
+      <label>Tick/untick contacts to add to/delete from selected project</label>
+    </div>
+    <div
+      class="col-md-4 col-sm-6 col-xs-12"
+      *ngFor="let c of contacts"
+      style="margin-left:20px;margin-right:-20px"
+    >
+      <input
+        type="checkbox"
+        class="form-check-input"
+        (change)="onChange($event.target.checked, c)"
+        [disabled]="!selectedProject"
+        [checked]="includedContacts && includedContacts.includes(c.contactId)"
+      />
+      {{ c.firstName }}, {{ c.lastName }}
+    </div>
+  </div>
+</div>
+
+<!-- {{ includedContacts }} -->

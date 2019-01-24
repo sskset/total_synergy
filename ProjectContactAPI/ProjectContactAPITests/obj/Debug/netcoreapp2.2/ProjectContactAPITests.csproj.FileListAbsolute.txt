@@ -1,0 +1,17 @@
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\ProjectContactAPITests.deps.json
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\ProjectContactAPITests.runtimeconfig.json
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\ProjectContactAPITests.runtimeconfig.dev.json
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\ProjectContactAPITests.dll
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\ProjectContactAPI.dll
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\ProjectContactAPI.pdb
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\obj\Debug\netcoreapp2.2\ProjectContactAPITests.csprojAssemblyReference.cache
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\obj\Debug\netcoreapp2.2\ProjectContactAPITests.csproj.CoreCompileInputs.cache
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\obj\Debug\netcoreapp2.2\ProjectContactAPITests.AssemblyInfoInputs.cache
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\obj\Debug\netcoreapp2.2\ProjectContactAPITests.AssemblyInfo.cs
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\obj\Debug\netcoreapp2.2\ProjectContactAPITests.csproj.CopyComplete
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\bin\Debug\netcoreapp2.2\ProjectContactAPITests.pdb
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\obj\Debug\netcoreapp2.2\ProjectContactAPITests.dll
+X:\total_synergy\ProjectContactAPI\ProjectContactAPITests\obj\Debug\netcoreapp2.2\ProjectContactAPITests.pdb

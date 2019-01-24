@@ -1,0 +1,14 @@
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\obj\Debug\netcoreapp2.2\ProjectContactAPI.csproj.CoreCompileInputs.cache
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\obj\Debug\netcoreapp2.2\ProjectContactAPI.AssemblyInfoInputs.cache
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\obj\Debug\netcoreapp2.2\ProjectContactAPI.AssemblyInfo.cs
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\obj\Debug\netcoreapp2.2\ProjectContactAPI.RazorAssemblyInfo.cache
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\obj\Debug\netcoreapp2.2\ProjectContactAPI.RazorAssemblyInfo.cs
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\bin\Debug\netcoreapp2.2\ProjectContactAPI.deps.json
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\bin\Debug\netcoreapp2.2\ProjectContactAPI.runtimeconfig.json
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\bin\Debug\netcoreapp2.2\ProjectContactAPI.runtimeconfig.dev.json
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\bin\Debug\netcoreapp2.2\ProjectContactAPI.dll
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\bin\Debug\netcoreapp2.2\ProjectContactAPI.pdb
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\obj\Debug\netcoreapp2.2\ProjectContactAPI.RazorTargetAssemblyInfo.cache
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\obj\Debug\netcoreapp2.2\ProjectContactAPI.dll
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\obj\Debug\netcoreapp2.2\ProjectContactAPI.pdb
+X:\total_synergy\ProjectContactAPI\ProjectContactAPI\obj\Debug\netcoreapp2.2\ProjectContactAPI.csprojAssemblyReference.cache

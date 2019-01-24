@@ -1,0 +1,11 @@
+<div class="container">
+  <form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <label>Project name:</label>
+    <div class="input-group mb-3">
+      <input type="text" class="w-100" formControlName="projectName" />
+    </div>
+    <button class="btn btn-primary" type="submit" [disabled]="form.invalid">
+      Submit
+    </button>
+  </form>
+</div>
